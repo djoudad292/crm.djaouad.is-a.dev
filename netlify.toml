@@ -3,5 +3,5 @@
   publish = "out"
 
 [build.environment]
-  NEXT_PUBLIC_API_URL = "https://millennium-choosing-victory-drawings.trycloudflare.com"
-  NEXT_PUBLIC_BACKEND_WEBHOOK_URL = "https://millennium-choosing-victory-drawings.trycloudflare.com/webhooks/whatsapp"
+  NEXT_PUBLIC_API_URL = "https://rejected-fees-observer-after.trycloudflare.com"
+  NEXT_PUBLIC_BACKEND_WEBHOOK_URL = "https://rejected-fees-observer-after.trycloudflare.com/webhooks/whatsapp"
