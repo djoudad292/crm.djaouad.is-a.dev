@@ -24,6 +24,8 @@ const wanted = [
   "LLM_BASE_URL",
   "LLM_API_KEY",
   "LLM_MODEL",
+  "WHATSAPP_PHONE_NUMBER_ID",
+  "WHATSAPP_ACCESS_TOKEN",
 ];
 
 const env = {};

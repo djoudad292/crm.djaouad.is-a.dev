@@ -7,3 +7,7 @@ node_modules/
 out/
 .netlify/
 .next/
+.env
+.env.local
+next-env.d.ts
+package-lock.json
