@@ -1,0 +1,9 @@
+# Local Netlify folder
+.netlify
+backend/config.json
+backend/dist
+node_modules/
+.next/
+out/
+.netlify/
+.next/
